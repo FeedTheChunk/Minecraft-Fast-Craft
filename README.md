@@ -1,8 +1,10 @@
 # Minecraft Fast Craft
  AHK Script for fast crafting
-
+ By: FeedTheChunk
+ 
 MC Script to craft nuggets to ingots, ingots into blocks, etc.
-Tested ONLY on a 1920 x 1080p Monitor.
+Tested ONLY on a 1920 x 1080p Monitor.  This should work regardless of monitor
+resolution or the number of monitors.
 
 Inspired by TangoTek of Hermitcaft fame.  He wrote a short script to craft gold 
 nuggets into ingots. I thought it great idea and decided to make my own.  He 
