@@ -17,7 +17,10 @@ AHK is an extremely powerful scripting language.  To bad their variable syntax
 is absolutely atrocious.  When do you % again?  Can you say "inconsistency" boys
 and girls. /rant
 
-V2.0.1b
+Change Log
+-----------
+
+V2.0.1b - 9/10/2022
    Removed: Crafting Delay
    Bug: Removed w parameter from font statement
    Code cleanup
